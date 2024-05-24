@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN6501QDBVRQ1
+D Automotive Low-Noise 350 mA, 410 kHz Transformer Driver 
+K
+F http://www.ti.com/lit/gpn/sn6501-q1
+$ENDCMP
+#
+#End Doc Library
