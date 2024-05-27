@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148X-TP
+D Switching Diodes
+K
+F https://mccsemi.com/pdf/Products/1N4148X(SOD-523).pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BYG23T-M3_TR
+D Diode 1A 1300V Ultrafast 75ns DO214AC Vishay BYG23T-M3/TR, SMT Fast Recovery Diode, 1300V 1A, 75ns, 2-Pin DO-214AC
+K
+F https://componentsearchengine.com/Datasheets/2/BYG23T-M3_TR.pdf
+$ENDCMP
+#
+#End Doc Library

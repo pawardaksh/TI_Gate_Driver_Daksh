@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UCC21530QDWKRQ1
+D Automotive, 4-A, 6-A, 5.7-kVrms isolated dual-channel gate driver with enable
+K
+F http://www.ti.com/lit/gpn/UCC21530-Q1
+$ENDCMP
+#
+#End Doc Library

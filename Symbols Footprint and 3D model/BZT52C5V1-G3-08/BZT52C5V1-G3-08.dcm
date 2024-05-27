@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BZT52C5V1-G3-08
+D Diode Zener Single 5.1V 6% 500mW 2-Pin SOD-123 T/R
+K
+F https://www.vishay.com/doc?83340
+$ENDCMP
+#
+#End Doc Library

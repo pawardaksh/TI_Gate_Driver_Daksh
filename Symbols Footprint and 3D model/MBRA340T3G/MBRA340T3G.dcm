@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MBRA340T3G
+D MBRA340T3G, Schottky Diode,  3A max, 40V, 2-Pin, SMA
+K
+F http://www.onsemi.com/pub/Collateral/MBRA340T3-D.PDF
+$ENDCMP
+#
+#End Doc Library

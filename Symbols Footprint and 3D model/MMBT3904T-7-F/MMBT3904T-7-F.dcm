@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMBT3904T-7-F
+D Transistor NPN 40V 0.2A SOT523
+K
+F https://www.diodes.com//assets/Datasheets/ds30270.pdf
+$ENDCMP
+#
+#End Doc Library

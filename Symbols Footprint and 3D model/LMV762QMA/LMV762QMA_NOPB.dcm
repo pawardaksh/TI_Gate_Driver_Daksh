@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMV762QMA_NOPB
+D Low Voltage, Precision Comparator with Push-Pull Output
+K
+F http://www.ti.com/lit/gpn/lmv762q-q1
+$ENDCMP
+#
+#End Doc Library
