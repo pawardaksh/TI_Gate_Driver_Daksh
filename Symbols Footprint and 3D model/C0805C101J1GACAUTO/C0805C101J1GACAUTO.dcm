@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C0805C101J1GACAUTO
+D SMD Auto C0G, Ceramic, 100 pF, 5%, 100 VDC, 250 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 11 mg, 0805, 2mm, 1.25mm, 0.78mm, 0.75mm, 0.5mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+#End Doc Library

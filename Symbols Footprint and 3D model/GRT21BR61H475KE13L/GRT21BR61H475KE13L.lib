@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model GRT21BR61H475KE13L
+#/1435755/1404156/2.50/2/2/Capacitor
+DEF GRT21BR61H475KE13L C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "GRT21BR61H475KE13L" 350 150 50 H V L CNN
+F2 "GRT21BR61E226ME13L" 350 50 50 H I L CNN
+F3 "https://psearch.en.murata.com/capacitor/product/GRT21BR61H475KE13%23.html" 350 -50 50 H I L CNN
+F4 "Capacitor GRT21 L=2.0mm W=1.25mm T=1.25mm" 350 -150 50 H I L CNN "Description"
+F5 "1.35" 350 -250 50 H I L CNN "Height"
+F6 "81-GRT21BR61H475KE3L" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRT21BR61H475KE13L?qs=drgMNd%252BkGPOkdtnwKnU3FQ%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Murata Electronics" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "GRT21BR61H475KE13L" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

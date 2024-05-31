@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRCW120627R0JNEA
+D RESISTOR, 1206 27 Ohms +/-5% 0.25W
+K
+F 
+$ENDCMP
+#
+#End Doc Library

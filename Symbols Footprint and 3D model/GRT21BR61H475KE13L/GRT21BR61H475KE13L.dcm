@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRT21BR61H475KE13L
+D Capacitor GRT21 L=2.0mm W=1.25mm T=1.25mm
+K
+F https://psearch.en.murata.com/capacitor/product/GRT21BR61H475KE13%23.html
+$ENDCMP
+#
+#End Doc Library
