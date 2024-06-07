@@ -34,4 +34,5 @@
   (lib (name "ERJ-U060R00V")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/ERJ-U060R00V/ERJ-U060R00V.kicad_sym")(options "")(descr ""))
   (lib (name "C0805C101J1GACAUTO")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/C0805C101J1GACAUTO/C0805C101J1GACAUTO.kicad_sym")(options "")(descr ""))
   (lib (name "0805B104K250CT")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/0805B104K250CT/0805B104K250CT.kicad_sym")(options "")(descr ""))
+  (lib (name "ERJ-U060R00")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/ERJ-U060R00V/ERJ-U060R00V.kicad_sym")(options "")(descr ""))
 )

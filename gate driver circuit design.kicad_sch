@@ -4704,32 +4704,51 @@
 				)
 			)
 		)
-		(symbol "Device:R"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
+		(symbol "ERJ-U060R00:ERJ-U060R00V"
+			(pin_names hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "R"
-				(at 2.032 0 90)
+				(at 13.97 6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 				)
 			)
-			(property "Value" "R"
-				(at 0 0 90)
+			(property "Value" "ERJ-U060R00V"
+				(at 13.97 3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 				)
 			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
+			(property "Footprint" "ERJS06_U06_(0805)"
+				(at 13.97 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf"
+				(at 13.97 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Anti-Sulfurated Thick Film Chip Resistor, 0805, 0.125W"
+				(at 4.064 10.414 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4737,60 +4756,72 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
+			(property "Height" "0.7"
+				(at 13.97 -396.19 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Description" "Resistor"
-				(at 0 0 0)
+			(property "Mouser Part Number" "667-ERJ-U060R00V"
+				(at 13.97 -496.19 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "R res resistor"
-				(at 0 0 0)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-U060R00V?qs=tfZGHB2PWd2kedEYcf1%2FXQ%3D%3D"
+				(at 13.97 -596.19 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
+			(property "Manufacturer_Name" "Panasonic"
+				(at 13.97 -696.19 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 					(hide yes)
 				)
 			)
-			(symbol "R_0_1"
+			(property "Manufacturer_Part_Number" "ERJ-U060R00V"
+				(at 13.97 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "ERJ-U060R00V_1_1"
 				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
+					(start 5.08 1.27)
+					(end 7.62 -1.27)
 					(stroke
 						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-			)
-			(symbol "R_1_1"
 				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
+					(at 2.54 0 0)
+					(length 2.54)
+					(name "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4806,9 +4837,9 @@
 					)
 				)
 				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
+					(at 10.16 0 180)
+					(length 2.54)
+					(name "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11835,6 +11866,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 168.91) (xy 109.22 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7afdaa84-bcb5-40cb-829f-b73dbbd91018")
+	)
+	(wire
+		(pts
 			(xy 181.61 134.62) (xy 181.61 128.27)
 		)
 		(stroke
@@ -12155,7 +12196,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 168.91) (xy 101.6 168.91)
+			(xy 93.98 168.91) (xy 99.06 168.91)
 		)
 		(stroke
 			(width 0)
@@ -17545,7 +17586,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d64e4739-9393-4dc6-8afc-f18cc2dab0e6")
+			(uuid "d64e4739-9393-4dc6-8afc-f18cc2dab0e7")
 		)
 		(instances
 			(project "gate driver circuit design"
@@ -18922,6 +18963,126 @@
 			(project "gate driver circuit design"
 				(path "/b1aff707-7082-456c-8309-ea9a24dd8210"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ERJ-U060R00:ERJ-U060R00V")
+		(at 96.52 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "50a05987-94da-43eb-88a9-e5450f808b59")
+		(property "Reference" "R31"
+			(at 102.87 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 102.87 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ERJ-U060R00V:ERJS06_U06__0805_"
+			(at 110.49 265.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf"
+			(at 110.49 365.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Anti-Sulfurated Thick Film Chip Resistor, 0805, 0.125W"
+			(at 100.584 158.496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.7"
+			(at 110.49 565.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-U060R00V"
+			(at 110.49 665.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-U060R00V?qs=tfZGHB2PWd2kedEYcf1%2FXQ%3D%3D"
+			(at 110.49 765.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 110.49 865.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-U060R00V"
+			(at 110.49 965.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "012e5b68-7fe1-4577-adaa-fe59d83da933")
+		)
+		(pin "1"
+			(uuid "03b51750-43ea-4dbb-800e-92741a4a128b")
+		)
+		(instances
+			(project "gate driver circuit design"
+				(path "/b1aff707-7082-456c-8309-ea9a24dd8210"
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -21618,7 +21779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PushPull_750343725:WE-PPTI_1209_L12.7W9.14H7.62"
+		(property "Footprint" "750343725:TRANSFORMER_750343725_WRE-L"
 			(at 107.95 30.48 0)
 			(effects
 				(font
@@ -21946,7 +22107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJS06_U06_(0805)"
+		(property "Footprint" "ERJ-U060R00V:ERJS06_U06__0805_"
 			(at 314.96 181.28 0)
 			(effects
 				(font
@@ -22415,74 +22576,6 @@
 			(project "gate driver circuit design"
 				(path "/b1aff707-7082-456c-8309-ea9a24dd8210"
 					(reference "R28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 105.41 168.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "85ab5e11-29c8-4113-87be-00621923cc0a")
-		(property "Reference" "R31"
-			(at 105.41 162.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 105.41 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 105.41 170.688 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 105.41 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 105.41 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6fa301ee-2495-4d6d-b0d0-270783261bd2")
-		)
-		(pin "2"
-			(uuid "3dcdcfe5-bd58-44ef-a14a-0e25e0efd73b")
-		)
-		(instances
-			(project "gate driver circuit design"
-				(path "/b1aff707-7082-456c-8309-ea9a24dd8210"
-					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -23251,7 +23344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PushPull_750343725:WE-PPTI_1209_L12.7W9.14H7.62"
+		(property "Footprint" "750343725:TRANSFORMER_750343725_WRE-L"
 			(at 107.95 62.23 0)
 			(effects
 				(font
@@ -25115,7 +25208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJS06_U06_(0805)"
+		(property "Footprint" "ERJ-U060R00V:ERJS06_U06__0805_"
 			(at 101.6 233.35 0)
 			(effects
 				(font
@@ -27257,7 +27350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJS06_U06_(0805)"
+		(property "Footprint" "ERJ-U060R00V:ERJS06_U06__0805_"
 			(at 110.49 230.81 0)
 			(effects
 				(font
@@ -28105,7 +28198,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d64e4739-9393-4dc6-8afc-f18cc2dab0e6")
+			(uuid "d64e4739-9393-4dc6-8afc-f18cc2dab0e8")
 		)
 		(instances
 			(project "gate driver circuit design"
