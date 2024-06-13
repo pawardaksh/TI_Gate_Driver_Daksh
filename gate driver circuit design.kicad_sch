@@ -27350,7 +27350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ-U060R00V:ERJS06_U06__0805_"
+		(property "Footprint" "CR0805-FX-5101ELF:RESC2012X60N"
 			(at 110.49 230.81 0)
 			(effects
 				(font

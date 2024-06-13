@@ -2,7 +2,6 @@
   (version 7)
   (lib (name "0805B104K250CT")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/0805B104K250CT")(options "")(descr ""))
   (lib (name "C0805C101J1GACAUTO")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/C0805C101J1GACAUTO")(options "")(descr ""))
-  (lib (name "ERJ-U060R00V")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/ERJ-U060R00V")(options "")(descr ""))
   (lib (name "GRT21BR61H475KE13L")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/GRT21BR61H475KE13L")(options "")(descr ""))
   (lib (name "LMK212ABJ106KGHT")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/LMK212ABJ106KGHT")(options "")(descr ""))
   (lib (name "CRCW120627R0JNEA")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/CRCW120627R0JNEA")(options "")(descr ""))
@@ -45,4 +44,5 @@
   (lib (name "PushPull_750343725")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/PushPull_750343725")(options "")(descr ""))
   (lib (name "SN6501QDBVRQ1_KiCad")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/SN6501QDBVRQ1/SN6501QDBVRQ1_KiCad")(options "")(descr ""))
   (lib (name "750343725")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/750343725")(options "")(descr ""))
+  (lib (name "ERJ-U060R00V")(type "KiCad")(uri "${KIPRJMOD}/Symbols Footprint and 3D model/ERJ-U060R00V")(options "")(descr ""))
 )
