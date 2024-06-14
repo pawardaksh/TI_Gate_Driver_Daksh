@@ -11246,7 +11246,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 212.09) (xy 167.64 212.09)
+			(xy 160.02 212.09) (xy 167.64 212.09)
 		)
 		(stroke
 			(width 0)
@@ -12816,7 +12816,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 186.69) (xy 157.48 212.09)
+			(xy 160.02 186.69) (xy 160.02 212.09)
 		)
 		(stroke
 			(width 0)
@@ -13966,7 +13966,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 186.69) (xy 157.48 186.69)
+			(xy 163.83 186.69) (xy 160.02 186.69)
 		)
 		(stroke
 			(width 0)
@@ -15969,7 +15969,7 @@
 			)
 		)
 		(property "Value" "1.0k"
-			(at 223.774 175.514 0)
+			(at 218.44 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16088,7 +16088,7 @@
 			)
 		)
 		(property "Value" "1.0k"
-			(at 197.104 208.534 0)
+			(at 191.77 207.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16197,7 +16197,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "107160de-48bb-4299-8fba-2102879d6d3c")
 		(property "Reference" "#FLG06"
 			(at 210.82 76.835 0)
@@ -16209,7 +16208,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 210.82 73.66 0)
+			(at 208.534 75.438 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18190,7 +18189,7 @@
 			)
 		)
 		(property "Value" "1.0k"
-			(at 223.774 169.164 0)
+			(at 218.186 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18299,7 +18298,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4281df1f-789a-405e-b3cf-d7c9e242fcdc")
 		(property "Reference" "#FLG08"
 			(at 210.82 45.085 0)
@@ -18311,7 +18309,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 210.82 41.91 0)
+			(at 208.28 43.434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
